@@ -2,6 +2,9 @@
 
 ## HEAD
 
+### Chrome CT Policy Update
+ * #906: Update chromepolicy.go to follow the updated Chrome CT policy.
+
 ### Public/Private Key Consistency
 
  * #1044: If a public key has been configured for a log, check that it is consistent with the private key.
